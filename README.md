@@ -9,7 +9,6 @@
 * Machine Learning
 * Computer vision 
 * Natural Language Processing
-* MLOps
 * Generative AI 
 * CI/CD 
 * AWS
